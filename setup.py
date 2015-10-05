@@ -27,7 +27,7 @@ setup(
     author_email='dcusati@us.ibm.com',
 
     # Choose your license
-    license='MIT',
+    license='',
 
     # See https://pypi.python.org/pypi?%3Aaction=list_classifiers
     classifiers=[
